@@ -1,7 +1,7 @@
 ### Olá,eu sou Guilherme Alves ![image](https://github.com/GuiAlvesR/GuiAlvesR/assets/139154854/9fa165ab-3ca9-4b5f-9408-ffa4dd517071)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558798124966)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermealvesa17?igshid=MzNlNGNkZWQ4Mg==)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guialvesrodrigues15@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://guialvesrodrigues15@gmail.com)
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiAlvesR&show_icons=true&theme=dark)
 
