@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,eu+sou+Guilherme+Alves;Dev+Full+Stack+de+Desenvolvimento+web+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,eu+sou+Guilherme+Alves;Dev+Full+Stack+de+Web+)](https://git.io/typing-svg)
 ![image](https://github.com/GuiAlvesR/GuiAlvesR/assets/139154854/9fa165ab-3ca9-4b5f-9408-ffa4dd517071)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558798124966)
