@@ -2,8 +2,9 @@
 ![image](https://github.com/GuiAlvesR/GuiAlvesR/assets/139154854/9fa165ab-3ca9-4b5f-9408-ffa4dd517071)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558798124966)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermealvesa17?igshid=MzNlNGNkZWQ4Mg==)<div><a href = "mailto:guialvesrodrigues15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-alves-rodrigues-b0562427b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermealvesa17?igshid=MzNlNGNkZWQ4Mg==)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guialvesrodrigues15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealvesrodriguesdev)
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiAlvesR&show_icons=true&theme=transparent)
 
