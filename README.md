@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&pause=1000&color=2B7FFF&vCenter=true&random=false&width=450&lines=Ol%C3%A1%2C+me+chamo+Guilherme+Alves+Rodrigues;Formado+em+Developer+Full+Stack+pela+RecodePro;Formado+em+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&pause=1000&color=2B7FFF&vCenter=true&random=false&width=455&lines=Ol%C3%A1%2C+me+chamo+Guilherme+Alves+Rodrigues;Formado+em+Developer+Full+Stack+pela+RecodePro;Formado+em+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 ![image](https://github.com/GuiAlvesR/GuiAlvesR/assets/139154854/9fa165ab-3ca9-4b5f-9408-ffa4dd517071)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558798124966)
