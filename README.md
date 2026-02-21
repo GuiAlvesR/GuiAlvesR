@@ -6,11 +6,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guialvesrodrigues15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealvesrodriguesdev)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GuiAlvesR&theme=tokyonight)
-![Stats Dark](URL&theme=dark#gh-dark-mode-only)
-![Stats Light](URL&theme=default#gh-light-mode-only)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GuiAlvesR)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAlvesR&layout=donut-vertical&langs_count=8&theme=tokyonight&hide=html,css)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiAlvesR&layout=compact)
 
 ## Tecnologias que uso no meu dia
 
